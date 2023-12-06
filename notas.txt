@@ -1,0 +1,6 @@
+Estudiante,Materia-1,Materia-2,Materia-3
+Estudiante-1,2.5,4.8,3.9
+Estudiante-2,3.4,1.6,1.6
+Estudiante-3,1.2,4.5,3.4
+Estudiante-4,3.8,1.1,4.9
+Estudiante-5,4.3,1.8,1.7
